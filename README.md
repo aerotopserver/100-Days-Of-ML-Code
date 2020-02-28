@@ -24,6 +24,9 @@
 <p align="center">
   <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
+<p align="center">
+  <img src="https://github.com/aerotopserver/100-Days-Of-ML-Code/tree/master/Info-graphs/Day%201.jpg">
+</p>
 
 ## 简单线性回归 | 第2天
 [简单线性回归实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%202_Simple_Linear_Regression.md)
